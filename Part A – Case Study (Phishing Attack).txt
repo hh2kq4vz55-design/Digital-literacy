@@ -1,0 +1,13 @@
+﻿Part A – Case Study (Phishing Attack)
+
+
+Phishing is a cybercrime where attackers trick users into revealing sensitive information like passwords or bank details. A common scenario involves a student receiving an email that appears to be from their bank or a trusted service.
+
+
+1.The attacker sends a fake email with a urgent message (e.g., “Your account will be blocked”).
+2.The email contains a link to a fake website that looks real.
+3.The victim enters login or OTP details.
+4.The attacker captures the data and misuses it for fraud.
+
+
+Students and young users are often targeted because they frequently use digital platforms but may lack awareness. The consequences include financial loss, identity theft, and unauthorized account access
